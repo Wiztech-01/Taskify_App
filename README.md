@@ -8,7 +8,7 @@ This Flask backend application serves as a task management system where users ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Evanny254/Taskify-Backend
+   git clone https://github.com/Wiztech-01/Taskify_App.git
 
 2. Install dependencies: pip install -r requirements.txt
 3. Configure the database connection in the app.py file.
